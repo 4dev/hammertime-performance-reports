@@ -1,0 +1,10 @@
+{
+  "simulation": "hammertime.GatlingSimulationTest",
+  "simulationId": "gatlingsimulationtest",
+  "start": 1584632713760,
+  "description": "",
+  "scenarios": ["Slaying the dragon"],
+  "assertions": [
+
+  ]
+}
